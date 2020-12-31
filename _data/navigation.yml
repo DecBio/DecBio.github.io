@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Trump"
-    url: /_posts/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Home"
+    url: /
+  #- title: "Contact"
+  #  url: mailto:debi@decentri.city
+  - title: "Register your DeBi Project"
+    url: mailto:debi@decentri.city
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
