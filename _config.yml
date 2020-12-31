@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" #"default" "air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "DeBi: Decentralized Biology"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Decentralized, Blockchain, and Sovereign Technologies for Genomic Data Science, DIYBio, and Medical Applications." # site tagline that appears below site title in masthead
 name                     : "Decentricity"
 description              : "Decentralized, Blockchain, and Sovereign Technologies for Genomic Data Science, DIYBio, and Medical Applications."
 url                      : http://decbio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:1@decentri.city"
-    - label: "http://decentri.city"
+    - label: "decentri.city"
       icon: "fas fa-fw fa-link"
       url: "https://decentri.city"
     - label: "Linkedin"
