@@ -2,4 +2,7 @@
 layout: post
 title: "Genvue"
 categories: genomics
+Upload raw data from AncestryDNA, 23andMe, or upload a Whole Genome Sequencing (WGS/WES) file in .vcf.gz or .vcf format (1 GB max file size) to learn about conditions, drug/chemical response, rare mutations, and more.
+Presented by Genetic Genie.
+Go to https://genvue.geneticgenie.org
 ---
