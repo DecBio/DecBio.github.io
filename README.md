@@ -1,209 +1,182 @@
-Fancy jekyll powered single page site
-======================
-
-Here're some examples:
-
-- **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- **Education:**
-  - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
-  - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
-  - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
-- **Open Source Projects:**
-  - [ALM](http://alm.tools/) A cloud ready IDE for TypeScript ([source](https://github.com/alm-tools/alm-tools.github.io))
-  - [argon.js](http://argonjs.io/) JS framework for adding augmented reality to web apps ([source](https://github.com/argonjs/argonjs.github.io))
-  - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
-  - [REMnux](http://www.elabftw.net/) Electronic lab notebook ([source](https://github.com/elabftw/elabftw/tree/gh-pages))
-  - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
-  - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
-  - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
-  - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
-  - [HTML Tidy Advocacy Community Group](http://www.htacg.org/) ([source](https://github.com/htacg/htacg.github.io))
-  - [AfriLeaks](https://afrileaks.org/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
-  - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
-  - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
-  - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
-  - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
-  - [vampd](http://vampd.io) Vagrant Drupal Box ([source](https://github.com/vampd/vampd/tree/gh-pages))
-  - [Automatune](http://mlsites.github.io/Automatune-Site/) - discover and share melodies ([source](https://github.com/mlsites/Automatune-Site/))
-  - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
-  - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
-  - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
-  - [FeedReader](http://jangernert.github.io/FeedReader/) Desktop RSS client ([source](https://github.com/jangernert/FeedReader/tree/gh-pages))
-  - [Coala Analyzer](http://coala-analyzer.org/) command-line interface for linting ([source](https://github.com/coala-analyzer/website))
-  - [Easy Shell](http://lucasviola.github.io/easyshell/) Linux and Shell Commands the Easy Way ([source](https://github.com/lucasviola/easyshell/tree/gh-pages)) 
-- **Events / Conferences**
-  - [CodeWeek 15 @ DI](http://cesium.github.io/codeweek15) CodeWeek at the University of Minho in 2015 by [CeSIUM](http://cesium.di.uminho.pt) - ([source](http://github.com/cesium/codeweek15))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [Open CoMo](http://jakewins.github.io/opencomo-site/) Open-Data Incubator for Columbia, MO. 13th-15th of November 2015 ([source](https://github.com/jakewins/opencomo-site))
-  - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
-  - Code Across 2015 @Seoul 전 세계 시빅해커들과 함께 하는 -> since changed, ([source](https://github.com/codeforseoul/codeacross))
-- **Personal:**
-  - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
-  - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
-  - [Chris & Katie wedding](http://katieball.me/wedding-style/) ([source](https://github.com/roachhd/wedding-style))
-  - [Harmanpreet weds Gurwinder](http://harmanhanzra.github.io/) ([source](https://github.com/harmanhanzra/harmanhanzra.github.io))
-- **Products:**
-  - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
-  - [Physical.media](http://physical.media/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
-  - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
-  - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
-  - Original DEVISSCHER web design page ([source](https://github.com/devisscher/templates/))
-- **Resumes:**
-  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
-  - [Sumedha Pramod](http://www.pramod.ninja/) resume ([source](https://github.com/pramodsum/pramodsum.github.io))
-  - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
-  - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
-  - [Emil Ahlbäck](https://mull.github.io/) resume ([source](https://github.com/mull/mull.github.io))
-  - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
-  - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
-  - [Michael A. Schmidt](http://micha-a-schmidt.github.io/physics/) particle physics lecturer at the University of Sydney ([source](https://github.com/micha-a-schmidt/physics/))
-  - [Tim Beissinger](https://timbeissinger.github.io/) postdoc in Plant Sciences at UC Davis ([source](https://github.com/timbeissinger/timbeissinger.github.io))
-  - [Jin Li](https://just4jin.github.io/) MS student in Systems and Information Engineering @ UVA ([source](https://github.com/just4jin/just4jin.github.io))
-  - [Emil Ahlbäck](https://mull.github.io/) ([source](https://github.com/mull/mull.github.io))
-- *Let me know of more!*
+[![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
 
 
-## Why?
+Demos
+-
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
-
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add _posts/*.md to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
-
-Sound good? Let's go!
-
-There are three way to get started: (links jump to that section)
-
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
+- [Windows 98](https://copy.sh/v86/?profile=windows98)
+- [Linux](https://copy.sh/v86/?profile=linux26)
+- [Linux 3](https://copy.sh/v86/?profile=linux3)
+- [KolibriOS](https://copy.sh/v86/?profile=kolibrios)
+- [FreeDOS](https://copy.sh/v86/?profile=freedos)
+- [Windows 1.01](https://copy.sh/v86/?profile=windows1)
+- [Archlinux](https://copy.sh/v86/?profile=archlinux)
 
 
+API examples
+-
 
--------------------------
+- [Basic](examples/basic.html)
+- [Programatically using the serial terminal](examples/serial.html)
+- [A Lua interpreter](examples/lua.html)
+- [Two instances in one window](examples/two_instances.html)
+- [Saving and restoring emulator state](examples/save_restore.html)
 
-## Setup as user homepage
+Using v86 for your own purposes is as easy as:
 
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `**username**.github.io`. (click settings in the right column)
-- Clone your repository, **cd into the project**
-- Run `git checkout publish && git branch -m master && git push -u origin master && git branch -D gh-pages` to get the *publish* branch as master for a clean, empty starting point.
-- On your github project page go to *settings* again and change your **default branch** to ***master***
-- Run `git push origin --delete gh-pages` to delete your remote's development branch
+```javascript
+var emulator = new V86Starter({
+    screen_container: document.getElementById("screen_container"),
+    bios: {
+        url: "../../bios/seabios.bin",
+    },
+    vga_bios: {
+        url: "../../bios/vgabios.bin",
+    },
+    cdrom: {
+        url: "../../images/linux.iso",
+    },
+    autostart: true,
+});
+```
 
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin master`**
-
--------------------------
-
-
-## Setup as standalone project page
-
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `whatever you want`. (click settings in the right column)
-  * It will go live at yourusername.github.io/**WhateverYouWant**
-- Clone your repository, cd into the project
-- Run `git checkout publish && git branch -D gh-pages && git branch -m gh-pages && git push -uf origin gh-pages` to swap the *publish* and *gh-pages* branch.
-
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin gh-pages`**
-
--------------------------
+See [API](docs/api.md).
 
 
-## Setup inside existing project
+How does it work?
+-
 
-This is the most complicated use-case .. but it's the coolest.
-Say you've got your kickass project `github.com/t413/kicker` and want to have
-some web presence to post about on [hacker news](http://news.ycombinator.com).
-This will create an orphan branch called `gh-pages` in your repository
-where you can publish changes, posts, images, and such. It won't alter your code at all.
+v86 emulates an x86-compatible CPU and hardware. Here's a list of emulated hardware:
 
-- `cd` into your project on the command line
-- use `git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
-- use `git fetch singlepage publish:gh-pages` to fetch the remote branch
-- use `git branch --set-upstream-to gh-pages singlepage/publish && git checkout gh-pages;`
-  This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
-- When you run `git push origin gh-pages` it'll be live at *yourusername.github.io/repositoryName*
-
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin gh-pages`**
-
-
-
-## Usage
-
-Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
-
-- Edit `_config.yml` to change your title, keywords, and description.
-- Create a new file in `_posts/` called `2014-01-01-intro.md`
-  Edit it, and add:
-
-~~~
-  ---
-  title: "home"
-  bg: white     #defined in _config.yml, can use html color like '#010101'
-  color: black  #text color
-  style: center
-  ---
-
-  # Example headline!
-  and so on..
-~~~
-
-- Create a second post called `2014-01-02-art.md` with an divider image this time:
-
-~~~
-  ---
-  title: "Art"
-  bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
-  color: white   #text color
-  fa-icon: paint-brush
-  ---
-
-  #### A new section- oh the humanity!
-~~~
-
-**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
-
-- install Jekyll with `sudo gem install github-pages`
-- run `jekyll serve -w`
-  - visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
-- Push changes and see them live!
+- An x86 compatible CPU. The instruction set is around Pentium 1 level. Some
+  features are missing, more specifically:
+  - Task gates, far calls in protected mode
+  - 16 bit protected mode features
+  - Single stepping
+  - MMX, SSE
+  - A bunch of FPU instructions
+  - Some exceptions
+- A floating point unit (FPU). Calculations are done with JavaScript's double
+  precision numbers (64 bit), so they are not as precise as calculations on a
+  real FPU (80 bit).
+- A floppy disk controller (8272A).
+- An 8042 Keyboard Controller, PS2. With mouse support.
+- An 8254 Programmable Interval Timer (PIT).
+- An 8259 Programmable Interrupt Controller (PIC).
+- A CMOS Real Time Clock (RTC).
+- A generic VGA card with SVGA support and Bochs VBE Extensions.
+- A PCI bus. This one is partly incomplete and not used by every device.
+- An IDE disk controller.
+- An NE2000 (8390) PCI network card.
+- A virtio filesystem.
+- A SoundBlaster 16 sound card.
 
 
+Testing
+-
+
+The disk images are not included in this repository. You can download them
+directly from the website using:
+
+`wget -P images/ https://copy.sh/v86/images/{linux.iso,linux3.iso,kolibri.img,windows101.img,os8.dsk,freedos722.img,openbsd.img}`.
+
+A testsuite is available in `tests/full/`. Run it using `node tests/full/run.js`.
 
 
-## Changing your colors
+How to build, run and embed?
+-
 
-- In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
-- **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
-  - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
+- Building is only necessary for releases, open debug.html and everything should load out of the box
+- If you want a compressed and fast (i.e. with debug code removed) version, you
+  need Closure Compiler. Download it as shown below and run `make build/v86_all.js`.
+- ROM and disk images are loaded via XHR, so if you want to try out `index.html`
+  locally, make sure to serve it from a local webserver. You can use `make run`
+  to serve the files using Python's SimpleHTTPServer.
+- If you only want to embed v86 in a webpage you can use libv86.js. For
+  usage, check out the [API](docs/api.md) and [examples](examples/).
+- A couple of disk images are provided for testing. You can check them out
+  using `wget -P images/ https://copy.sh/v86/images/{linux.iso,linux3.iso,kolibri.img,windows101.img,os8.dsk,freedos722.img,openbsd.img}`.
 
-Nifty, right!
+
+**Short summary:**
+
+```bash
+# grab the main repo
+git clone https://github.com/copy/v86.git && cd v86
+
+# grab the disk images
+wget -P images/ https://copy.sh/v86/images/{linux.iso,linux3.iso,kolibri.img,windows101.img,os8.dsk,freedos722.img,openbsd.img}
+
+# grab closure compiler
+wget -P closure-compiler https://dl.google.com/closure-compiler/compiler-latest.zip
+unzip -d closure-compiler closure-compiler/compiler-latest.zip *.jar
+
+# build the library
+make build/libv86.js
+
+# run the tests
+./tests/full/run.js
+```
+
+Compatibility
+-
+
+Here's an overview of the operating systems supported in v86:
+
+- Linux works pretty well.
+  - Tinycore (3.16, 4.8 kernel): Works.
+  - Nanolinux works.
+  - Archlinux works with some caveats. See [archlinux.md](docs/archlinux.md).
+  - Damn Small Linux (2.4 Kernel): Doesn't work.
+- ReactOS works.
+- FreeDOS, Windows 1.01 and MS-DOS run very well.
+- KolibriOS works. A few applications need SSE.
+- Haiku boots, but takes very long (around 30 minutes).
+- No Android version seems to work, you still get a shell.
+- Windows 1, 3, 95 and 98 work. Windows XP is unstable, but can work with some
+  tweaks ([see this issue](https://github.com/copy/v86/issues/86)). Other
+  versions might work but haven't been tested.
+- Many hobby operating systems work.
+- FreeBSD works.
+- OS/2 doesn't work.
+
+You can get some infos on the disk images here: https://github.com/copy/images.
+The Windows images are from [WinWorld](https://winworldpc.com/).
 
 
+How can I contribute?
+-
 
-## Updating
+- Add new features (hardware devices, fill holes in the CPU), fix bugs. Check
+  out the issues section and contact me if you need help.
+- Report bugs.
+- If you want to donate, let me know.
 
-So you've got a copy running and there's some new update? Let's update!
+License
+-
 
-1. Checkout your github-pages branch
-  - `git checkout gh-pages` for a standalone or existing page
-  - `git checkout master` for a *username.github.io* page
-2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
-2. `git fetch singlepage` to fetch-in-place new changes.
-3. Update to the new base (using merge)
-    1. `git merge singlepage/publish`
-4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
-    1. `git rebase singlepage/publish`
+- Source code and most tests: Simplified BSD License, see [LICENSE](LICENSE).
+- QEMU test suite: See [tests/qemu/LICENSE](LICENSE).
+
+
+Credits
+-
+
+- CPU test cases via QEMU, http://wiki.qemu.org/Main_Page
+- More tests via [kvm-unit-tests](https://www.linux-kvm.org/page/KVM-unit-tests)
+- [Disk Images](https://github.com/copy/images)
+- [The jor1k project](https://github.com/s-macke/jor1k) for 9p, filesystem and uart drivers
+- [WinWorld](https://winworldpc.com/) sources of some old operating systems
+
+
+More questions?
+-
+
+Shoot me an email to `copy@copy.sh`. Please don't tell about bugs via mail,
+create a bug report on GitHub instead.
+
+
+Author
+-
+
+Fabian Hemmer (http://copy.sh/, `copy@copy.sh`)
